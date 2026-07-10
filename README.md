@@ -91,9 +91,6 @@ I build systems that run in production — reliably, at scale, around the clock.
 
 ## Achievements
 
-**AWS Student Builder Group @ TU Dublin** · *Founder & Campus Lead* · *(Launching Sept 2026)*
-> Establishing an official Amazon-supported campus cloud community for AWS architecture and cloud literacy workshops
-
 **Tallaght University Hospital Hackathons** · *Lead Backend & Full-Stack Developer* · *2024 – 2025*
 - **2025 — IoT / Smart Campus**: Co-developed an edge-computing sensor network using Raspberry Pi & FastAPI edge servers to process live environmental data
 - **2024 — Digital Health**: Delivered an e-library MVP portal for hospital staff (Django, SQLite, full UI integration)
