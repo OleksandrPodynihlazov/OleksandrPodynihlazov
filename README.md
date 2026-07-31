@@ -77,7 +77,7 @@ I build systems that run in production — reliably, at scale, around the clock.
 
 ---
 
-### Pharmacy Market Intelligence Pipeline &nbsp;*(Freelance, 2024)*
+### [Pharmacy Market Intelligence Pipeline](https://github.com/OleksandrPodynihlazov/Nationwide-scraper-owerview) &nbsp;*(Freelance, 2025)*
 
 > Continuous price & availability tracking engine — the foundation of the 200M+ records/day system
 
@@ -121,9 +121,6 @@ I build systems that run in production — reliably, at scale, around the clock.
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=OleksandrPodynihlazov&theme=radical&hide_border=false" height="155" alt="GitHub Streak"/>
-</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OleksandrPodynihlazov&theme=github-compact" height="200"/>
 </p>
